@@ -1,0 +1,20 @@
+{
+  "name": "electron-customer-management",
+  "version": "0.0.1",
+  "description": "An Electron-based customer management application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/TheCrimsonKing92/electron-customer-management",
+  "keywords": [
+    "Electron",
+    "productivity",
+    "customer",
+    "management"
+  ],
+  "author": "TheCrimsonKing92",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
